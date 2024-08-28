@@ -23,14 +23,14 @@ This project aims to perform mutational signature analysis on cancer data, with 
 Mapping of TCGA variants by tumor type and signature exposure
 
 
-# STEPS
+# Steps
 
-i. Download TCGA data using TCGAbiolinks
-ii. Import TCGA samples into musicatk
-iii. Build mutational tables based on SBS96, DBS78 and IND83 schemas. 
-iv. Predict Sample Exposures using LDA
-v. Embed using UMAP
-vi. Coloured by tumor types and signatures
+- i. Download TCGA data using TCGAbiolinks
+- ii. Import TCGA samples into musicatk
+- iii. Build mutational tables based on SBS96, DBS78 and IND83 schemas. 
+- iv. Predict Sample Exposures using LDA
+- v. Embed using UMAP
+- vi. Coloured by tumor types and signatures
 
 
 1. Data Types used: 
